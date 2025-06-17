@@ -1,0 +1,22 @@
+{
+    "fisico": {
+        "nome_display": "Físico (MechLens)",
+        "description": "Lente para análise de sistemas físicos e mecânicos.",
+        "phi": "Força Direcional Aplicada",
+        "psi": "Energia Disponível para Trabalho",
+        "mu": "Resistência Estrutural do Material",
+        "sigma": "Atrito e Perdas Energéticas",
+        "lf": "Eficiência Mecânica",
+        "er": "Capacidade de Converter Energia Dissipada em Trabalho Útil"
+    },
+    "psiquico": {
+        "nome_display": "Psíquico (MindLens)",
+        "description": "Lente para interpretação de processos mentais e emocionais.",
+        "phi": "Intenção, Foco e Clareza de Propósito",
+        "psi": "Energia Psíquica e Capacidade Executiva",
+        "mu": "Resiliência e Regulação Emocional",
+        "sigma": "Ansiedade, Distrações e Conflitos Internos",
+        "lf": "Eficiência Psíquica",
+        "er": "Capacidade de Transformar Estresse em Adaptação Positiva"
+    }
+}

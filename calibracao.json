@@ -1,0 +1,25 @@
+{
+    "OMEGA_THRESHOLD": 0.2,
+    "REGIMES": {
+        "CAOTICO": {
+            "LF_MAX": 0.2,
+            "ER_MAX": 0.2,
+            "DESCRIPTION": "Risco iminente de falha, esforço desproporcional ao resultado."
+        },
+        "RIGIDO": {
+            "MU_MIN": 0.9,
+            "ER_MAX": 0.4,
+            "DESCRIPTION": "Estrutura resistente, mas com baixa flexibilidade e capacidade de inovação."
+        },
+        "ADAPTATIVO": {
+            "LF_MIN": 0.4,
+            "ER_MIN": 0.8,
+            "DESCRIPTION": "Alta capacidade de transformar conflitos em estrutura, resiliente a perturbações."
+        },
+        "OTIMO": {
+            "LF_MIN": 0.8,
+            "ER_MIN": 0.8,
+            "DESCRIPTION": "Excelência operacional, sistema otimizado com desempenho superior."
+        }
+    }
+}
